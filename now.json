@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "auth0-auth",
+  "build": {
+    "env": {
+      "REACT_APP_CLIENT_ID": "@auth0-clientid",
+      "REACT_APP_DOMAIN": "@auth0-domain"
+    }
+  }
+}
